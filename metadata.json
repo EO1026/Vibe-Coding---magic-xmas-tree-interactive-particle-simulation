@@ -1,0 +1,7 @@
+{
+  "name": "Magical Particle Christmas Tree",
+  "description": "An interactive 3D Christmas tree experience built with Three.js particles and MediaPipe hand tracking. Morph 47,000 particles with gestures or mouse interaction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
